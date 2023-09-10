@@ -5,12 +5,12 @@
 <h3 align="right">About me</h3>
 
 - 💬 **Ask me about:** Anything related to automation basically
-- 💼 **Experience:** 2+ years in QA Automation, specializing in database integration and automation.
+- 💼 **Experience:** QA Automation, specializing in database integration and automation.
 - 📄 **Resume**:
 - 🌐 **Location:** Lod, Israel
 - 📧 **Email:** tzach2222@gmail.com
 - 📱 **LinkedIn:**
-- ⚡ **Fun fact**: Love working out and playing the pino
+- ⚡ **Fun fact**: Love working out and playing the piano
 
 ## Skills
 
