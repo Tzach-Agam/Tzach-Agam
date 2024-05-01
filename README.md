@@ -1,5 +1,5 @@
 <h1 align="center">Hi there🖐🏻, I'm Tzach Agam</h1>
-<h2 align="center">A QA Automation engineer</h2>
+<h2 align="center">A QA Automation Engineer</h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <h3 align="right">About me</h3>
