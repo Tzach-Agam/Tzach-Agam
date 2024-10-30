@@ -6,10 +6,10 @@
 
 - 💬 **Ask me about:** Anything related to automation basically
 - 💼 **Experience:** QA Automation, specializing in database integration and automation.
-- 📄 **Resume**:
+- 📄 **Resume**: <a href="https://github.com/Tzach-Agam/Resume/blob/main/Tzach%20Agam%20CV.pdf">My Resume</a>
+- 📱 **LinkedIn:** <a href="https://www.linkedin.com/in/tzach-agam-a91320222/">My LinkedIn profile</a>
 - 🌐 **Location:** Lod, Israel
 - 📧 **Email:** tzach2222@gmail.com
-- 📱 **LinkedIn:**
 - ⚡ **Fun fact**: Love working out and playing the piano
 
 ## Skills
